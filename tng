@@ -34,5 +34,6 @@
  { "hwid":"bafd01addc55930a1cdfdd8a1cf53c69", "expire":"2026-03-31T16:04:00" },
  { "hwid":"0003a42fba74cd5ba914df9ec35ae7a1", "expire":"2026-04-24T21:50:00" },
  { "hwid":"c647da92f2364cc266beaf333d6809c5", "expire":"2026-04-25T15:53:00" },
+ { "hwid":"30bc1189d642a8a618f149a002f7bbee", "expire":"2026-04-25T20:41:00" },
  { "hwid":"942900222", "expire":"2026-03-30T18:00:00" }
 ]
