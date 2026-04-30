@@ -3,15 +3,6 @@
  { "hwid":"56ef7e6d80ccc51c5bb269b13c313c40", "expire":"2026-05-25T15:53:00" },
  { "hwid":"54297c5ad9e84d9ec568fcb90562b52f", "expire":"2026-05-04T15:01:00" },
  { "hwid":"afb8aed3b9e9e1adf78de64f027dec86", "expire":"2026-05-01T05:18:00" },
- { "hwid":"96dd54b7b7325556c70011abc6fe1262", "expire":"2026-04-29T05:35:00" },
- { "hwid":"e81192c63a5ecbb54a14b481655a3d9c", "expire":"2026-04-29T11:59:00" },
- { "hwid":"50c54719e25c89b64535673e678df6bc", "expire":"2026-04-29T11:59:00" },
- { "hwid":"e81192c63a5ecbb54a14b481655a3d9c", "expire":"2026-04-29T11:59:00" },
- { "hwid":"6404d94ba86edb92c54d87ec2f64d819", "expire":"2026-04-29T13:34:00" },
- { "hwid":"0003a42fba74cd5ba914df9ec35ae7a1", "expire":"2026-04-29T21:50:00" },
- { "hwid":"c647da92f2364cc266beaf333d6809c5", "expire":"2026-04-30T15:53:00" },
- { "hwid":"30bc1189d642a8a618f149a002f7bbee", "expire":"2026-04-30T20:41:00" },
- { "hwid":"65af8b1860af45cbbd42652e17eb6416", "expire":"2026-04-30T20:49:00" },
  { "hwid":"63bfad8588a506aaf517e9d1c8f9a529", "expire":"2026-05-01T19:18:00" },
  { "hwid":"fc4b896656f0f3b68de28b8afea1d943", "expire":"2026-05-02T12:21:00" },
  { "hwid":"6018ba1a04e73228e5613259db06c4a9", "expire":"2026-05-03T06:52:00" },
@@ -71,5 +62,6 @@
  { "hwid":"eb33d9ac926d47c3e9e2c2d26fd82cfe", "expire":"2026-05-05T07:54:00" },
  { "hwid":"8de7584c8153b0ae1abf397e7c5946ae", "expire":"2026-05-28T13:48:00" },
  { "hwid":"14fc6c96fd84bda57e3bc28c6588824b", "expire":"2026-05-28T16:39:00" },
+ { "hwid":"bb28d6lf7c1d0bbdaa90ac278d5e301a", "expire":"2026-05-07T22:48:00" },
  { "hwid":"942900222", "expire":"2026-03-30T18:00:00" }
 ]
