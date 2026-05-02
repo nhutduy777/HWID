@@ -56,7 +56,7 @@
  { "hwid":"14fc6c96fd84bda57e3bc28c6588824b", "expire":"2026-05-28T16:39:00" },
  { "hwid":"65af8b1860af45cbbd42652e17eb6416", "expire":"2026-06-01T06:55:00" },
  { "hwid":"2710a759709213734d6d3d6921ca716e", "expire":"2026-06-01T08:21:00" },
- { "hwid":"bb28d61f7cld0bbdaa90ac278d5e301a", "expire":"2026-05-07T22:48:00" },
+ { "hwid":"bb28d61f7c1d0bbdaa90ac278d5e301a", "expire":"2026-05-07T22:48:00" },
  { "hwid":"bb0d2ecc05468042206dc170b2f28cd1", "expire":"2026-06-01T10:27:00" },
  { "hwid":"42a0ad37cb352aa0474b7e602ebf3ef2", "expire":"2026-06-01T19:29:00" },
  { "hwid":"c6904e9656261fdb7decca4207da97f5", "expire":"2026-05-09T08:11:00" },
